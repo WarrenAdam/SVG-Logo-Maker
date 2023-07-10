@@ -46,7 +46,7 @@ screenshot:
 
 ## Credits
 
-I would like to give contribution to my tutor Scott McAnnally for helping me de bug the code to make the SVG logo apear better in the browser.
+I would like to give contribution to my tutor Scott McAnnally for helping me debug the code to make the SVG logo apear better in the browser.
 ## Tests
 
 The project was run in the backend and needed inquirer 8.2.4 and Jest. Inquirer was used for the prompted questions and Jest was used for testing purposes. To install jest and inquirer 8.2.4, you select the path required and run command npm install inquirer 8.2.4. Upon completion, run command npm i jest --save -dev. Once completed you are able to run node index.js for the prompts and in the shapes.test.js file, npm run test to complete a test diagnostic.
